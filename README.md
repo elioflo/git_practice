@@ -1,2 +1,4 @@
 # git_practice
-just practice
+
+
+commit 1
